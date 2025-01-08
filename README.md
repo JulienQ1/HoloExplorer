@@ -1,5 +1,8 @@
 ## HoloExplorer
 
+![image](https://github.com/user-attachments/assets/9faef54f-372f-437f-b232-56d4c06e8a3a)
+
+
 A top-down exploration game inspired by Hololive and built with Entity Component System (ECS) architecture.
 
 ### Exploration Theme
